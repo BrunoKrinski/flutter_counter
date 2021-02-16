@@ -6,4 +6,4 @@
 <img src='images/Screenshot_20210216-193051.jpg' width=49%>
 <img src='images/Screenshot_20210216-193104.jpg' width=49%></nobr>
 <img src='images/Screenshot_20210216-193136.jpg' width=49%>
-<img src='images/Screenshot_20210216-193217.jpg' width=98%>
+<img src='images/Screenshot_20210216-193217.jpg' width=98.5%>
